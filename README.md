@@ -1,3 +1,10 @@
+# How to use
+To use it first, it must be in the public/contract folder
+Place your abi contract
+After that, you can add the desired network in the truffle migration file
+And finally start with npm start
+
+
 # Web3-simple-page
 This is a simple web3 page, but very detailed
 
